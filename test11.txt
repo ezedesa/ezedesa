@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test12
+=======
+test12
+>>>>>>> 21822d0ff08add2d9d02ea0aa7e9a16a1c10d2ee
